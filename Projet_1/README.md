@@ -1,6 +1,6 @@
 # Analysez des données de systèmes éducatifs
 
-<sub>*Le projet initial a été réalisé en Décembre 2020 (soumis et soutenu), et revu en Avril 2023 pour dépôt sur GitHub.*</sub>
+<sub>*Le projet initial a été réalisé en Décembre 2020 (soumis et soutenu), et revu en Mai 2023 pour dépôt sur GitHub.*</sub>
 
 Vous êtes Data Scientist dans une **start-up de la EdTech**, nommée ***academy***, qui propose des contenus de formation en ligne pour un public de niveau lycée et université.
 
