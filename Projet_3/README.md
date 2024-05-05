@@ -1,6 +1,6 @@
 # Anticipez les besoins en consommation de bâtiments
 
-<sub>*Le projet initial a été réalisé en Mars 2021 (soumis et soutenu), et revu en Octobre 2023 pour dépôt sur GitHub.*</sub>
+<sub>*Le projet initial a été réalisé en Mars 2021 (soumis et soutenu), et revu en Mai 2024 pour dépôt sur GitHub.*</sub>
 
 Vous travaillez pour la **ville de Seattle.** Pour atteindre son objectif de ville neutre en émissions de carbone en 2050, votre équipe s’intéresse de près à la consommation et aux émissions des **bâtiments non destinés à l’habitation.**
 
