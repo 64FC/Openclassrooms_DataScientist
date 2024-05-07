@@ -1,6 +1,6 @@
 # Segmentez des clients d'un site e-commerce
 
-<sub>*Le projet initial a été réalisé en Mai 2021 (soumis et soutenu), et revu en Avril 2023 pour dépôt sur GitHub.*</sub>
+<sub>*Le projet initial a été réalisé en Mai 2021 (soumis et soutenu), et revu en XXXX 2024 pour dépôt sur GitHub.*</sub>
 
 Vous êtes consultant pour [Olist](https://olist.com/), une entreprise brésilienne qui propose une solution de vente sur les marketplaces en ligne.
 
